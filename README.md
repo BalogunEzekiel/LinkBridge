@@ -47,38 +47,6 @@ Aspiring developers often face difficulties in finding accessible, experienced m
 
 ---
 
-## 🚀 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/ezekiel4true/mentorlink.git
-
-# Navigate into the project folder
-cd mentorlink
-
-# Install dependencies
-npm install      # For frontend
-pip install -r requirements.txt  # For Django backend (if applicable)
-
-# Start development servers
-npm start        # Frontend
-python manage.py runserver  # Django backend
-
-## 🗓️ Milestones / Timeline
-
-| Week | Tasks                                                          |
-|------|----------------------------------------------------------------|
-| 1    | Requirement analysis, wireframing, tech stack confirmation     |
-| 2    | Environment setup, authentication system                       |
-| 3    | Profile creation and editing functionality                     |
-| 4    | Matching algorithm MVP, testing compatibility logic            |
-| 5    | Integration of messaging/scheduling feature                    |
-| 6    | User dashboard development, milestone tracking                 |
-| 7    | Admin panel, unit/integration testing                          |
-| 8    | Final touches, deployment, complete documentation              |
-
----
-
 ## 📈 Success Criteria
 
 - 🎯 **90%+ mentee-match success rate** post-registration.  
