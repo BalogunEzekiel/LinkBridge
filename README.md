@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-MentorLink is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the DSA (Data Science Africa) community. It offers personalized mentor-mentee matching based on shared interests, skills, career goals, and availability. The platform ensures a smooth onboarding experience, communication channel, and structured mentoring progress tracking.
+MentorLink is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the Digital SkillUp Africa DSA community by The Incubator Hub. It offers personalized mentor-mentee matching based on shared interests, skills, career goals, and availability. The platform ensures a smooth onboarding experience, communication channel, and structured mentoring progress tracking.
 
 ---
 
