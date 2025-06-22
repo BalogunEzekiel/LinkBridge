@@ -114,4 +114,4 @@ Are you passionate about mentorship or looking for someone to guide your tech jo
 If you’d like to **collaborate**, **contribute**, or offer **feedback**, feel free to reach out.  
 Let’s build a stronger tech community—**one connection at a time**.
 
-> ⭐ Don’t forget to **Star** this repository if you find it helpful!
+> ⭐ Don’t forget to **Star** this repository if you find it helpful and like the MentoLink app!
