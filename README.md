@@ -2,20 +2,20 @@
 
 ## 📌 Project Description
 
-MentorLink is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the **Digital SkillUp Africa DSA** community by **The Incubator Hub**. It offers personalized mentor-mentee matching based on shared interests, skills, career goals, and availability. The platform ensures a smooth onboarding experience, communication channel, and structured mentoring progress tracking.
+MentorLink is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the **Digital SkillUp Africa (DSA)** community by **The Incubator Hub**. It offers personalized mentor-mentee matching based on shared interests, skills, career goals and availability. The platform ensures a smooth onboarding experience, communication channel and structured mentoring progress tracking.
 
 ---
 
 ## 🚧 Problem Statement
 
-Aspiring developers often face difficulties in finding accessible, experienced mentors whose goals and schedules align with theirs. Traditional mentor-matching methods are typically manual, unstructured, and inefficient—leading to mismatched or failed mentorship relationships. MentorLink addresses this gap by automating the process and optimizing mentor-mentee compatibility.
+Aspiring developers often face difficulties in finding accessible, experienced mentors whose goals and schedules align with theirs. Traditional mentor-matching methods are typically manual, unstructured and inefficient—leading to mismatched or failed mentorship relationships. MentorLink addresses this gap by automating the process and optimizing mentor-mentee compatibility.
 
 ---
 
 ## 🎯 Project Objectives
 
 - ✅ Build a scalable web app for mentors and mentees to sign up and connect.
-- ✅ Collect and structure user data: skills, interests, goals, and availability.
+- ✅ Collect and structure user data: skills, interests, goals and availability.
 - ✅ Match users using a compatibility-based algorithm.
 - ✅ Provide secure messaging and/or scheduling capabilities.
 - ✅ Offer dashboards for monitoring mentorship relationships and milestones.
@@ -25,11 +25,11 @@ Aspiring developers often face difficulties in finding accessible, experienced m
 ## ✨ Key Features
 
 - **🔐 User Authentication** – Secure sign-up and login with role assignment (mentor/mentee).
-- **👤 Profile Management** – Bio, skills, interests, goals, and calendar availability.
+- **👤 Profile Management** – Bio, skills, interests, goals and calendar availability.
 - **🤝 Matching Algorithm** – Smart pairing based on multi-criteria compatibility.
 - **💬 Communication Tools** – In-app messaging and Google Calendar integration.
-- **📊 Mentorship Dashboard** – Track progress, active matches, and session history.
-- **🛠️ Admin Panel** – For user management, match override, and reporting tools.
+- **📊 Mentorship Dashboard** – Track progress, active matches and session history.
+- **🛠️ Admin Panel** – For user management, match override and reporting tools.
 
 ---
 
@@ -98,13 +98,11 @@ python manage.py runserver  # Django backend
 
 ---
 
-## 👨‍💻 Team & Role Attribution
-
-**All roles were performed by me as the sole developer of MentorLink:**
+## 👨‍💻 Tasks (Performed by a Sole Developer)
 
 - **Frontend Developer** – Designed and built the UI using modern frameworks.  
 - **Backend Developer** – Built and maintained API endpoints and database logic.  
-- **UI/UX Designer** – Created wireframes, mockups, and ensured intuitive user flow.  
+- **UI/UX Designer** – Created wireframes, mockups and ensured intuitive user flow.  
 - **Project Manager** – Planned project scope, managed progress and iterations.  
 - **QA Tester** – Carried out testing to ensure bug-free and secure functionality.
 
@@ -131,11 +129,11 @@ This project is open-source and available under the **MIT License**.
 ## 📬 Contact & Author Information
 
 **👤 Ezekiel Balogun**  
-*Full-Stack Developer | Data Analyst | Community Builder*
+*Full-Stack Developer | Data Scientist / Analyst | AI / ML Engineer | Business Intelligence Expert*
 
 - 📧 Email: [ezekiel4true@yahoo.com](mailto:ezekiel4true@yahoo.com)  
 - 💼 LinkedIn: [linkedin.com/in/ezekiel-balogun-39a14438](https://linkedin.com/in/ezekiel-balogun-39a14438)  
-- 🌐 Portfolio/Blog: [https://ezekieldatatech.hashnode.dev](https://ezekieldatatech.hashnode.dev)  
+- 🌐 Portfolio/Blog: [https://ezekieldatatech.hashnode.dev](https://datatech.hashnode.dev)  
 - 📍 Location: Nigeria (Remote Friendly 🌍)
 
 ---
