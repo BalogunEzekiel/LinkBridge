@@ -21,3 +21,7 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 // Remaining files assumed written into relevant folders (controllers, routes, models)
+
+const api = axios.create({
+  baseURL: import.meta.env.VITE_API_BASE_URL,
+});
