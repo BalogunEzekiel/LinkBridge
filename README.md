@@ -1,14 +1,14 @@
-# 🎯 MentorLink – A Mentorship Matching Platform
+# 🎯 LinkBridge – A Mentorship Matching Platform
 
 ## 📌 Project Description
 
-MentorLink is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the **Digital SkillUp Africa (DSA)** community by **The Incubator Hub**. It offers personalized mentor-mentee matching based on shared interests, skills, career goals and availability. The platform ensures a smooth onboarding experience, communication channel and structured mentoring progress tracking.
+LinkBridge is a web-based platform built to bridge the mentorship gap in the tech ecosystem, particularly within the **Digital SkillUp Africa (DSA)** community by **The Incubator Hub**. It offers personalized mentor-mentee matching based on shared interests, skills, career goals and availability. The platform ensures a smooth onboarding experience, communication channel and structured mentoring progress tracking.
 
 ---
 
 ## 🚧 Problem Statement
 
-Aspiring developers often face difficulties in finding accessible, experienced mentors whose goals and schedules align with theirs. Traditional mentor-matching methods are typically manual, unstructured and inefficient—leading to mismatched or failed mentorship relationships. MentorLink addresses this gap by automating the process and optimizing mentor-mentee compatibility.
+Aspiring developers often face difficulties in finding accessible, experienced mentors whose goals and schedules align with theirs. Traditional mentor-matching methods are typically manual, unstructured and inefficient—leading to mismatched or failed mentorship relationships. LinkBridge addresses this gap by automating the process and optimizing mentor-mentee compatibility.
 
 ---
 
@@ -109,7 +109,7 @@ This project is open-source and available under the **MIT License**.
 ## 📢 Call to Action
 
 Are you passionate about mentorship or looking for someone to guide your tech journey?  
-**👉 Try out MentorLink and experience structured, impactful mentorship.**
+**👉 Try out LinkBridge and experience structured, impactful mentorship.**
 
 If you’d like to **collaborate**, **contribute**, or offer **feedback**, feel free to reach out.  
 Let’s build a stronger tech community—**one connection at a time**.
