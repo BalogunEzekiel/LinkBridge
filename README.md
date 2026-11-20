@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-LinkBridge is an AI-powered web-based innovative solution built to bridge the mentorship gap in the tech ecosystem. It offers personalized mentor-mentee matching based on shared interests, skills, career goals and availability. The platform ensures a smooth onboarding experience, communication channel and structured mentoring progress tracking.
+LinkBridge is an AI-powered intelligent innovative solution built to bridge the mentorship gap in the tech ecosystem. It offers personalized mentor-mentee matching based on shared interests, skills, career goals and availability. The platform ensures a smooth onboarding experience, communication channel and structured mentoring progress tracking.
 
 ---
 
